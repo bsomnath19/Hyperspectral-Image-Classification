@@ -1,0 +1,2 @@
+# Hyperspectral-Image-Classification
+Classification is one of the most important task in hyperspectral image processing. In the last few decades, several classification techniques have been introduced for hyperspectral images (HSI). Hyperspectral Image(HSI) data often contains hundreds of spectral bands over the same spatial area which provide valuable information to identify the various materials. In HSI, each pixel can be regarded as a high dimensional vector whose entries correspond to the spectral reflectance from visible to infrared.
